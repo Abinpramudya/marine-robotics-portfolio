@@ -10,7 +10,7 @@ abinpramudya2@gmail.com | [+33 766 877 456](tel:+33766877456) | [LinkedIn](https
 
 Semi-autonomous underwater black box recovery system developed for semester project. Utilized YOLO object detection and multi-sensor fusion (IMU, depth) for target localization and recovery in controlled pool environment. Custom NiceGUI interface enables operator monitoring and manual override.  
 
-[Project Repository](https://github.com/MahmoudAboelrayat/bluerov2_blackbox_recovery) | ![System Demo](media/uji_project/uji_footage.mp4)
+[Project Repository](https://github.com/MahmoudAboelrayat/bluerov2_blackbox_recovery)  ![System Demo](media/uji_project/demo.gif)
 
 **Technologies:** ROS2 | Python | Linux | YOLO | NiceGUI  
 
